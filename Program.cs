@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
 using Newtonsoft.Json;
-
+//zapis:https://www.pdf2go.com/
 class Program
 {
     static readonly HttpClient client = new HttpClient();
